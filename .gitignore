@@ -127,3 +127,9 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+#files that are too big
+201908-citibike-tripdata.csv
+201908-citibike-tripdata.csv.zip
+citibike.csv
+201908-citibike-tripdata\201908-citibike-tripdata.csv
